@@ -1,5 +1,5 @@
 # NearestNeighbor-without-scikit-learn
-In python I wrote the Nearest Neighbor algorithm that would typically require using the scikit-learn
+(Open README in raw format) In python I wrote the Nearest Neighbor algorithm that would typically require using the scikit-learn
 library. This program is specifically applied to the classic iris flower datasets problem.
 
 I completed this using Jupyter Notebook. To run the program use the two iris-testing-data.csv and iris-training-data.csv files or feel 
